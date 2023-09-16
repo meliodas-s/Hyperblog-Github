@@ -1,1 +1,4 @@
 *.jpg
+
+# Para genera esepcion !
+!logo.jpg
