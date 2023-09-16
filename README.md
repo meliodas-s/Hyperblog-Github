@@ -8,5 +8,6 @@ En este curso vimos:
 * Todos los comandos de Git
 * EL flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
+* Crado por el increible andyno team
 
 Como amable recordatorio: **Este readme.md es un chiste**.
