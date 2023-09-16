@@ -9,5 +9,7 @@ En este curso vimos:
 * EL flujo de trabajo de GitHub
 * El verdadero amor por las buenas prácticas
 * Crado por el increible andyno team
+* Incluye ejemplos en wnds, lnx, mac
+* Disponible para todas las edades
 
 Como amable recordatorio: **Este readme.md es un chiste**.
