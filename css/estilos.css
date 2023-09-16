@@ -31,16 +31,19 @@ body {
   border: 1px solid #ddd;
   margin: 0 auto;
 }
-#container h1 {
+#container h1
+{
   font-size: 20px;
-}
-#post {
-  background: #fff;
-  padding: 1em;
 }
 #post
 {
-    padding: 1em;
+  background: #fff;
+  padding: 1em;
+}
+#imagen_perrito
+{
+  max-width: 100%;
+  height: auto;
 }
 #footer
 {
